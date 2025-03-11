@@ -1,0 +1,13 @@
+matplotlib==3.9.3
+numpy==2.2.3
+omegaconf==2.3.0
+pandas==2.2.3
+scipy==1.15.2
+scikit-image==0.25.2
+torch==2.5.0
+pyyaml==6.0.2
+zuko==1.4.0
+
+ment @ git+https://github.com/austin-hoover/ment.git@v1.1.3
+bmadx @ git+https://github.com/bmad-sim/Bmad-X.git@v0.1.0
+phase-space-reconstruction @ git+https://github.com/austin-hoover/gpsr_6d_paper.git@60aca7068e5a3452fbde695fb02235a350f1afb1
