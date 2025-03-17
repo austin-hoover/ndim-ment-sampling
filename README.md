@@ -2,7 +2,7 @@
 
 ![](images/fig_gmm_flat.png)
 
-Source code and data files for the manuscript "N-dimensional maximum-entropy tomography via particle sampling".
+Source code for the manuscript "N-dimensional maximum-entropy tomography via particle sampling".
 
 
 ## Setup
